@@ -2,7 +2,7 @@
     "name": "rkooistra/super-eloquent-repository",
     "description": "A concrete repository for Eloquent models to allow quick implementation of common functionalities, such as CRUD and search methods. Save yourself the boring stuff.",
     "type": "library",
-    "version":"1.0.1",
+    "version":"1.0.0-stable",
     "require": {
         "laravel/framework": ">=5.8",
         "php": ">=7.3"
