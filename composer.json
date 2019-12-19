@@ -1,0 +1,28 @@
+{
+    "name": "rkooistra/super-eloquent-repository",
+    "description": "A concrete repository for Eloquent models to allow quick implementation of common functionalities, such as CRUD and search methods. Save yourself the boring stuff.",
+    "type": "library",
+    "require": {
+        "laravel/framework": ">=5.8",
+        "php": ">=7.3"
+    },
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/KakaCarrotCake/super-eloquent-repository"
+        }
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Remy Kooistra",
+            "email": "remykooistra77@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RKooistra\\SuperEloquentRepository\\": "src"
+        },
+        "files": []
+    }
+}
