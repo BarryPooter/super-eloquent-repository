@@ -1,9 +1,9 @@
 <?php namespace RKooistra\SuperEloquentRepository\Abstracts;
 
-use RKooistra\SuperEloquentRepository\IsResourceRepository;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Collection;
+use \RKooistra\SuperEloquentRepository\Contracts\IsResourceRepository;
+use \Illuminate\Database\Eloquent\Builder;
+use \Illuminate\Database\Eloquent\Model;
+use \Illuminate\Support\Collection;
 
 /**
  * Class ResourceRepository
