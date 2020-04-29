@@ -1,4 +1,4 @@
-<?php namespace RKooistra\SuperEloquentRepository;
+<?php namespace RKooistra\SuperEloquentRepository\Contracts;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
